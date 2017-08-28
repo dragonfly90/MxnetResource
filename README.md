@@ -9,4 +9,6 @@
 
 [Densenet (supporting ImageNet)](https://github.com/bruinxiong/densenet.mxnet) by Xiong Lin.
 
-[Focal loss](https://github.com/unsky/focal-loss) by unsky
+[Focal loss](https://github.com/unsky/focal-loss) by unsky.
+
+[FCIS](https://github.com/msracver/FCIS) by msracver.
