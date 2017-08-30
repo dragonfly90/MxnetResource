@@ -12,3 +12,5 @@
 [Focal loss](https://github.com/unsky/focal-loss) by unsky.
 
 [FCIS](https://github.com/msracver/FCIS) by msracver.
+
+[Dual Path Net](https://github.com/miraclewkf/DPN) by miraclewkf
