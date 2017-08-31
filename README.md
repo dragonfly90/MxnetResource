@@ -17,4 +17,4 @@
 
 ## Interesting Architecture
 
-[Feature Pyramid Network]https://github.com/jhkim89/PyramidNet
+[Feature Pyramid Network](https://github.com/jhkim89/PyramidNet)
