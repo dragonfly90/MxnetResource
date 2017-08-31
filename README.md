@@ -17,4 +17,4 @@
 
 ## Interesting Architecture
 
-[Feature Pyramid Network](https://github.com/xmyqsh/FPN)
+[Feature Pyramid Network](https://github.com/xmyqsh/FPN) mAP 0.7372
