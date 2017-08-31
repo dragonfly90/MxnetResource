@@ -14,3 +14,7 @@
 [FCIS](https://github.com/msracver/FCIS) by msracver.
 
 [Dual Path Net](https://github.com/miraclewkf/DPN) by miraclewkf
+
+## Interesting Architecture
+
+[Feature Pyramid Network]https://github.com/jhkim89/PyramidNet
