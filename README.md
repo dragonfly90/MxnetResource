@@ -15,6 +15,9 @@
 
 [Dual Path Net](https://github.com/miraclewkf/DPN) by miraclewkf
 
+[MobileNet]https://github.com/KeyKy/mobilenet-mxnet
+
 ## Interesting Architecture
 
 [Feature Pyramid Network](https://github.com/xmyqsh/FPN) mAP 0.7372
+
