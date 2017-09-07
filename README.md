@@ -15,7 +15,7 @@
 
 [Dual Path Net](https://github.com/miraclewkf/DPN) by miraclewkf
 
-[MobileNet]https://github.com/KeyKy/mobilenet-mxnet
+[MobileNet](https://github.com/KeyKy/mobilenet-mxnet)
 
 ## Interesting Architecture
 
