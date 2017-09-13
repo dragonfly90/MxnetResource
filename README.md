@@ -9,11 +9,13 @@
 
 [Densenet (supporting ImageNet)](https://github.com/bruinxiong/densenet.mxnet) by Xiong Lin.
 
+[Dual Path Net](https://github.com/miraclewkf/DPN) by miraclewkf
+
+[Resnet](https://github.com/tornadomeet/ResNet)
+
 [Focal loss](https://github.com/unsky/focal-loss) by unsky.
 
 [FCIS](https://github.com/msracver/FCIS) by msracver.
-
-[Dual Path Net](https://github.com/miraclewkf/DPN) by miraclewkf
 
 [MobileNet](https://github.com/KeyKy/mobilenet-mxnet)
 
