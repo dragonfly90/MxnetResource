@@ -11,7 +11,7 @@
 
 [Dual Path Net](https://github.com/miraclewkf/DPN) by miraclewkf
 
-[Resnet](https://github.com/tornadomeet/ResNet)
+[Resnet](https://github.com/tornadomeet/ResNet) by tornadomeet
 
 [Focal loss](https://github.com/unsky/focal-loss) by unsky.
 
